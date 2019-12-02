@@ -1,3 +1,10 @@
+# NOTE
+
+Yahoo have closed down the quotes, as such, this project no loner serves
+the practical purpose the name suggests, but it does still function as the
+pure example as it was intended. I may update if I can find an equally freely
+available source of dubious pseudo random numbers.
+
 # Yahoo Quotes exporter for Prometheus
 
 This is a toy exporter that demonstrates how to write exporters that take
